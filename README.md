@@ -1,5 +1,5 @@
 # Gas price forecasting through various statistical methods
-
+## Group 13
 
 The project was developed in python with the aim of predicting gas price at different time horizons 30 days, 90 days, 180 days) using statistical machine learning techniques.
 
